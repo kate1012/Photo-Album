@@ -1,0 +1,14 @@
+Work Split for PhotoAlbum GUI
+
+
+* Login                              Kate Sussman
+* Admin Panel                        Kate Sussman
+* User Panel (Album List)            Kate Sussman
+* Search Interface                   Kate Sussman
+* Rename Album                       Kate Sussman
+
+* Open Album                         Ben Green
+* Search Results View                Ben Green
+* Create Album from Search Results   Ben Green
+* Photo View (Slideshow)             Ben Green
+* Edit Photo Info                    Ben Green
